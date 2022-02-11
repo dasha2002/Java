@@ -15,8 +15,10 @@
    </columnConstraints>
    <rowConstraints>
       <RowConstraints />
+      <RowConstraints />
    </rowConstraints>
    <children>
-      <Button mnemonicParsing="false" text="Button" />
+      <Button mnemonicParsing="false" text="Button" GridPane.rowIndex="1" />
+      <Label prefHeight="17.0" prefWidth="138.0" text="Label" />
    </children>
 </GridPane>
